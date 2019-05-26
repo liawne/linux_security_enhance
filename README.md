@@ -16,5 +16,3 @@
 $ bash linux-security-enhance-6.sh
 # for centos7 or rhel7
 $ bash linux-security-enhance-7.sh
-
-    
